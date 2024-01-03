@@ -1,0 +1,17 @@
+### Practice Questions Of Module2
+1. Which of the following is invalid in C ?
+		- int a;     b = a; 
+		- int v = 3 ^ 3;
+		- char dt = '21 Jan 2005';
+
+2. What data type will 3.0/8 - 2 return ?
+
+3. Write a program to check whether a number is divisible by 97 or not. 
+
+4. Explain step by step evaluation of 3*x/y-z+k
+where x = 2    y = 3    z = 3    k = 1 
+
+5. 3.0 + 1 will be : 
+		- Integer
+		- Floating point number 
+		- Character
