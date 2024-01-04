@@ -1,0 +1,20 @@
+### Practice Questions Of Module3
+
+1. What will be the output of this program?
+		```int a = 10;
+		if (a=11)
+			printf("I am 11");
+		 else 
+			 printf("I am not 11");
+
+2. Write a program to find out whether a student is pass or fail ; if it requires total 40% and at least 33% in each subject to pass. 
+   Assume 3 subjects and take marks as an input from the user.
+
+3. Calculate income tax paid by an employee to the government as per slabs mentioned below : 
+      INCOME SLAB              TAX 
+      2.5L - 50L               5% 
+      5.0L - 10.0L             20%
+      Above 10L                30%
+Note that there is no tax below 2.5L . Take income amount as an input from the user.
+
+4. Write a program to find whether a year entered by the user is a leap year or not. Take year as an input from the user.
