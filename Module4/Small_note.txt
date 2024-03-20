@@ -1,0 +1,8 @@
+NOTE : 
+1. Sometimes, the name of the variable might not 
+indicate the behaviour of the program.
+
+2. Break statement completely exits the loop.
+
+3. Continue statement skips the particular 
+iteration of the loop.
